@@ -30,4 +30,18 @@ I like to build robust and scalable products with great user experiences.</p>
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson0x07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<details>
+  <summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 45px></summary>
+  <div align="center">
+    <a href="https://github.com/Anderson0x07">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson0x07&theme=transparent" />
+    </a>
+    <a href="https://github.com/Anderson0x07">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson0x07&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/Anderson0x07">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson0x07&theme=transparent" />
+    </a>
+  </div>
+</details>
