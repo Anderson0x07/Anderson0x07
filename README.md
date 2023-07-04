@@ -35,13 +35,13 @@ I like to build robust and scalable products with great user experiences.</p>
   <summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 45px></summary>
   <div align="center">
     <a href="https://github.com/Anderson0x07">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson0x07&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson0x07&theme=dark" />
     </a>
     <a href="https://github.com/Anderson0x07">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson0x07&hide_border=true&card_width=338&theme=transparent" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson0x07&hide_border=true&card_width=338&theme=dark" />
     </a>
     <a href="https://github.com/Anderson0x07">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson0x07&theme=transparent" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anderson0x07&theme=dark" />
     </a>
   </div>
 </details>
