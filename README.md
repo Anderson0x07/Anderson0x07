@@ -2,11 +2,6 @@
 <p>Full Stack Web Developer,
 I design and code beautiful, simple things, and I love what I do.
 I like to build robust and scalable products with great user experiences.</p>
-
-## About me
-- 💻 I'm currently a freelance developer but looking for a full time job.
-- 🏆 I'm a native Spanish-speaker.
-- 🥅 2023 Goals: Work at high quality company as a Web Developer.
   
  ## Contact! 😃
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://anderson-orozco.netlify.app)
